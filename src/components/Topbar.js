@@ -20,6 +20,7 @@ export default function Topbar() {
                     </div>
                     <div className="topbarIconContainer">
                         <Settings/>
+                    <img src="https://drive.google.com/uc?export=view&id=15qtSuNnvhZkZywLKNCgPDvQVF4i9J_11" alt="" className="topAvatar"/>
                     </div>
                 </div>
             </div>
